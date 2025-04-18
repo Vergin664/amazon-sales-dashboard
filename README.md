@@ -29,3 +29,4 @@ This project presents an interactive **Power BI dashboard** analyzing sales data
 * amazon_sales_data_cleaning.ipynb	--- Python notebook for data cleaning/prep
 * Amazon_Cleaned.csv ---	Cleaned dataset used in Power BI
 * amazon_sales_data 2025.csv --- Original dataset
+* Dataset Kaggle link (https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
